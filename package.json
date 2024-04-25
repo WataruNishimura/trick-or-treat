@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/PlasmoHQ/bpp/v3/keys.schema.json",
   "name": "trick-or-treat",
   "displayName": "Trick or treat",
   "version": "0.0.1",
@@ -25,7 +26,12 @@
   },
   "manifest": {
     "host_permissions": [
-      "https://*/*"
+      "https://scrapbox.io/*"
+    ],
+    "permissions": [
+      "cookies",
+      "activeTab",
+      "scripting"
     ]
   }
 }
