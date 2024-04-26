@@ -1,13 +1,13 @@
 # Trick or Treat
 
->![CAUTION]
+>![WARNING]
 >本Chrome拡張機能はScrapbox.ioが意図しない挙動やセキュリティ上の問題を引き起こす可能性があります. 自己責任の範囲で利用できない場合は利用を取りやめてください.
 > 
-> This a Google Chrome extension may causes unintentional or security issues. Unless you would take full responsibility for your action, do not use this extension.
+>This a Google Chrome extension may causes unintentional or security issues. Unless you would take full responsibility for your action, do not use this extension.
 
->![CAUTION]
-> このChrome拡張機能を利用しScrapbox.ioの非公式APIにアクセスする場合には, 必ずリクエストとリクエストの間隔を5秒以上開けるなどしてサービスに負荷をかけないようにしてください.
-> If you use this Google Chrome extension to access Scrapbox.io unofficial API, you must have an interval of 5 seconds or more to send request.
+>![WARNING]
+>このChrome拡張機能を利用しScrapbox.ioの非公式APIにアクセスする場合には, 必ずリクエストとリクエストの間隔を5秒以上開けるなどしてサービスに負荷をかけないようにしてください.
+>If you use this Google Chrome extension to access Scrapbox.io unofficial API, you must have an interval of 5 seconds or more to send request.
 
 Scrapbox.io の非公式APIを利用しprivateプロジェクトにアクセスする際に必要なcookie、`connect.sid`　を簡単に表示するためのChrome拡張機能です。
 
